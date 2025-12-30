@@ -3,7 +3,7 @@
 A beautiful, responsive, and interactive feedback form designed with a nature/forest theme. This project features a glassmorphism UI, a dynamic star rating system, 
 and a **serverless backend** using Google Sheets to store user reviews.
 
-![Project Preview](screenshot.png)
+![Project Preview](screenshot.jpeg)
 
 ## 🚀 Features
 
